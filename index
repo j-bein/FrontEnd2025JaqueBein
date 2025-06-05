@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nega Maluca - Receta Brasileña</title>
+</head>
+<body>
+    <h1>Nega Maluca - Receta Brasileña</h1>
+    <h2>Ingredientes</h2>
+    <ul>
+        <li>3 huevos</li>
+        <li>180g de azúcar</li>
+        <li>100g de cacao en polvo</li>
+        <li>120ml de aceite</li>
+        <li>240ml de agua caliente</li>
+        <li>240g de harina de trigo</li>
+        <li>1 cucharada de levadura en polvo</li>
+    </ul>
+
+    <h2>Preparación</h2>
+    <ol>
+        <li>Precalentar el horno a 180°C.</li>
+        <li>Batir los huevos y el azúcar hasta obtener una mezcla homogénea.</li>
+        <li>Añadir el cacao en polvo, el aceite y el agua caliente, mezclar bien.</li>
+        <li>Incorporar la harina y la levadura, mezclar hasta integrar.</li>
+        <li>Verter la masa en un molde engrasado y hornear por 30-40 minutos.</li>
+        <li>Dejar enfriar y disfrutar.</li>
+    </ol>
+
+    <h2>Imagen del pastel</h2>
+    <img src="https://www.petitchef.es/imgupl/recipe/nega-maluca-delicioso-pastel-de-chocolate-brasileno-fid-1581657.jpg" alt="Nega Maluca">
+
+    <h2>Video de preparación</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+
+    <h2>Audio explicativo</h2>
+    <audio controls>
+        <source src="audio.mp3" type="audio/mpeg">
+        Tu navegador no soporta el elemento de audio.
+    </audio>
+
+    <h2>Mapa de la zona de procedencia</h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.019123456789!2d-46.633309!3d-23.550520!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c1f3b3b3b3%3A0x3b3b3b3b3b3b3b3b!2sBrasil!5e0!3m2!1ses!2sbr!4v1620000000000" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+</body>
+</html>
