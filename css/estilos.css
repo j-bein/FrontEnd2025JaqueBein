@@ -1,0 +1,19 @@
+/* Fondo general de la página */
+body {
+  background-color: #F5F5DC;
+  font-family: Arial, sans-serif;
+  color: #DC143C;
+  font-size: 16px;
+}
+
+/* Títulos subrayados */
+h1, h2, h3 {text-decoration: underline;
+  text-align: center;
+  color: #008B8B;
+}
+
+/* Alineación de texto en las secciones */
+section p, aside p {
+  text-align: justify;
+  margin: 0 20px;
+}
