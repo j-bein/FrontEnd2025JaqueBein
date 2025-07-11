@@ -1,19 +1,67 @@
-/* Fondo general de la página */
+/* estilos.css */
 body {
-  background-color: #F5F5DC;
-  font-family: Arial, sans-serif;
-  color: #DC143C;
-  font-size: 16px;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fcebd6;
+  color: #4e2e2e;
+  margin: 0;
+  padding: 0 20px;
 }
 
-/* Títulos subrayados */
-h1, h2, h3 {text-decoration: underline;
+header {
+  background-color: #d98b5f;
+  color: white;
+  padding: 20px;
   text-align: center;
-  color: #008B8B;
+  border-radius: 0 0 10px 10px;
 }
 
-/* Alineación de texto en las secciones */
-section p, aside p {
-  text-align: justify;
-  margin: 0 20px;
+h1, h2 {
+  color: #8b5c4e;
+}
+
+nav {
+  background-color: #ffd3b6;
+  padding: 10px;
+  margin: 20px auto;
+  text-align: center;
+  border-radius: 8px;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #5c3d2e;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #a0522d;
+}
+
+.footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 0.9em;
+  color: #a88c8c;
+  padding: 20px;
+  background-color: #fcebd6;
+}/*api whatsapp*/
+.whatsapp-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #25d366;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+}
+
+.whatsapp-icon {
+  width: 40px;
+  height: 40px;
 }
